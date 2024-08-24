@@ -1,4 +1,8 @@
 # Home-Sales-Analysis
+
+![bokeh_plot (1)](https://github.com/user-attachments/assets/e0656296-0548-43e3-a307-a85ed7894690)
+
+
 Overview
 
 This project focuses on analyzing home sales data using Apache Spark and PySpark. The dataset includes various features related to home sales, such as prices, number of bedrooms and bathrooms, square footage, and more. The analysis is performed using Spark SQL to gain insights into the housing market trends.
